@@ -1,5 +1,5 @@
 {
-    "name": "My Dev Container",
+    "name": "Computer Systems Security Dev Container",
     "image": "ryantolboom/hash",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
