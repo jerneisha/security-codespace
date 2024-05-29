@@ -1,0 +1,13 @@
+{
+    "name": "My Dev Container",
+    "image": "ryantolboom/hash",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ms-vscode.cpptools",
+        "ms-python.python"
+    ],
+    "postCreateCommand": "echo 'Container setup complete!'",
+    "remoteUser": "root"
+}
