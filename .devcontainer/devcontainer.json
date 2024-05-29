@@ -1,13 +1,14 @@
 {
     "name": "Computer Systems Security Dev Container",
-    "image": "ryantolboom/hash",
-    "settings": {
+    "build": {
+        "dockerfile": "Dockerfile"
+      },
+      "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
-    },
-    "extensions": [
-        "ms-vscode.cpptools",
-        "ms-python.python"
-    ],
-    "postCreateCommand": "echo 'Container setup complete!'",
-    "remoteUser": "root"
-}
+      },
+      "extensions": [
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-docker"
+      ],
+      "postCreateCommand": "docker run -it ryantolboom/hash"
+    }
