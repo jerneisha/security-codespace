@@ -1,8 +1,8 @@
 ### Codespace for 
 
-## Computer Systems Security: Planning for Success
+## Computer Systems Security: Planning for Success by Ryan Tolboom
 
-### by Ryan Tolboom
+### Codespace by Dr. Jan Pearce
 
 # Directions for use
 
