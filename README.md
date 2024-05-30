@@ -1,4 +1,4 @@
-### Codespace for 
+### Codespace for [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out)
 
 ## Computer Systems Security: Planning for Success by Ryan Tolboom
 
